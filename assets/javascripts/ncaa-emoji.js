@@ -187,7 +187,7 @@
   Discourse.Dialect.registerEmoji('diii-clarkson', '/plugins/ncaa_emoji/images/clarkson.png');
   Discourse.Dialect.registerEmoji('dii-clayton-state', '/plugins/ncaa_emoji/images/clayton-state.png');
   Discourse.Dialect.registerEmoji('di-clemson', '/plugins/ncaa_emoji/images/clemson.png');
-  Discourse.Dialect.registerEmoji('di-cleveland-statae', '/plugins/ncaa_emoji/images/cleveland-statae.png');
+  Discourse.Dialect.registerEmoji('di-cleveland-state', '/plugins/ncaa_emoji/images/cleveland-statae.png');
   Discourse.Dialect.registerEmoji('diii-coast-guard', '/plugins/ncaa_emoji/images/coast-guard.png');
   Discourse.Dialect.registerEmoji('di-coastal-carolina', '/plugins/ncaa_emoji/images/coastal-carolina.png');
   Discourse.Dialect.registerEmoji('diii-coe', '/plugins/ncaa_emoji/images/coe.png');
