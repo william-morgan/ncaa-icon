@@ -1,10 +1,10 @@
-# name: ncaa_emoji
-# about: adds ncaa emoji
+# name: ncaa_icon
+# about: adds ncaa icons
 # version: 0.1
 # authors: ttalk
 
 
-enabled_site_setting :emoji_enabled
+enabled_site_setting :ncaa_icon_enabled
 
 register_emoji "di-abilene-christian", "/plugins/ncaa_emoji/images/abilene-christian.png"
 register_emoji "dii-academy-of-art", "/plugins/ncaa_emoji/images/academy-of-art.png"
