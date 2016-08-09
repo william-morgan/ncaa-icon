@@ -1,4 +1,4 @@
-A plugin that adds a ncaa emoji set to a discourse install.
+A plugin that adds a ncaa icon set to a discourse install.
 
 License:
 
