@@ -1,4 +1,4 @@
 plugins:
-  ncaa_icon_enabled:
+  emoji_enabled:
     default: true
     client: true
