@@ -4,7 +4,7 @@
 # authors: ttalk
 
 
-enabled_site_setting :ncaa_icon_enabled
+enabled_site_setting :emoji_enabled
 
 register_emoji "di-abilene-christian", "/plugins/ncaa-icon/images/abilene-christian.png"
 register_emoji "dii-academy-of-art", "/plugins/ncaa-icon/images/academy-of-art.png"
